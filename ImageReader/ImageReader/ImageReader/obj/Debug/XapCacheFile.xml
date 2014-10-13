@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Bin\Debug\ImageReader_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12-Oct-14 8:28:54 PM">
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\obj\Debug\ImageReader.dll" archivePath="ImageReader.dll" lastWriteTime="12-Oct-14 8:28:53 PM" />
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12-Oct-14 7:29:03 PM" />
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12-Oct-14 7:29:03 PM" />
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12-Oct-14 7:29:03 PM" />
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12-Oct-14 7:29:03 PM" />
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12-Oct-14 7:29:03 PM" />
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12-Oct-14 7:29:26 PM" />
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12-Oct-14 7:29:03 PM" />
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12-Oct-14 7:29:03 PM" />
+  <file source="C:\Users\sachin\Desktop\MyProjects\ImageReader\ImageReader\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12-Oct-14 7:58:55 PM" />
+</xapCache>
